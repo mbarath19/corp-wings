@@ -847,7 +847,7 @@
 }
 
 .testimonial-carousel .owl-dots {
-    display: flex;
+    display: none;
     justify-content: center;
     margin-top: 20px;
 }
